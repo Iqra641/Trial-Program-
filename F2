@@ -1,3 +1,4 @@
+
 #include<iostream>
 using namespace std;
 void fun();
@@ -14,3 +15,6 @@ void fun()
       n++;
       cout<<"Value of n = "<<n<<endl;
 }
+output:
+[IMG-20240901-WA0022](https://github.com/user-attachments/assets/465121a5-26f5-4fa8-8e70-a32f440429ac)
+
